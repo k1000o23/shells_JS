@@ -1,5 +1,5 @@
-var port = "Fill with port listening";
-var ip = "Fill with your IP";
+var port = "Puerto a la escucha";
+var ip = "Tu dirección IP a la escucha";
 var spawn = require('child_process').spawn;
 var net = require('net');
 var reconnect = require('reconnect');
